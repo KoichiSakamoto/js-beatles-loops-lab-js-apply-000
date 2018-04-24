@@ -6,3 +6,11 @@ function theBeatlesPlay(musicianArray, instrumentArray) {
   }
   return resultArray
 }
+
+function johnLennonFacts(factsArray) {
+  let counter = 0
+  let resultArray = []
+  while (counter < factsArray.length) {
+    resultArray.push(`${factsArray[counter]`)
+  }
+}
